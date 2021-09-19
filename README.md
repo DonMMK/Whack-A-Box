@@ -15,6 +15,7 @@
 ---
 ### Completed Project
 - This is where you can put pictures
+- ![](microcontroller.png)
 ---
 ### Notes about the Project
 - open source can use/contribute to it
