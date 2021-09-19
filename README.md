@@ -1,7 +1,5 @@
 # CAB202-Whack-A-Mole
 
-
-# Project Name
 - This repository contains the code for the project name. This project was done in language. Few Custom Lines that be copied over to the resume.
 ---
 ### Skills gained at the completion of the project
