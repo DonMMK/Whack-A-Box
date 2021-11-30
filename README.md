@@ -12,7 +12,7 @@
 ---
 ### Completed Project
 - Given below is a working diagram of the set up for the arduino and the circuit set up
-- ![](microcontroller.png)
+![](microcontroller.png)
 ---
 ### Notes about the Project
 - Further testing and improvments to make game more appealing can be made.
