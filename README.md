@@ -17,3 +17,7 @@
 ### Notes about the Project
 - Further testing and improvments to make game more appealing can be made.
 ---
+
+
+https://user-images.githubusercontent.com/71302996/151764291-4f253ae1-725a-4253-886b-97f7880a6b60.mp4
+
