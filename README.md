@@ -1,4 +1,4 @@
-# CAB202-Whack-A-Mole
+# CAB202-Whack-A-Box
 
 - This repository contains the code for the invention, design, implementation and demonstration of a working prototype of a microcontroller-based product. The invention that has been explored is a game called “Whack-The-Box” which is a spin- off of the classic arcade game, Whack-A-Mole. This project was done in the C programming language.
 ---
